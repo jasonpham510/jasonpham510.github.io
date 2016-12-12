@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Molle:400i');</style>
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -23,7 +26,7 @@ h1 {
     color: Aquamarine;
     background-color:DarkTurquoise;
     font-size: 3em;
-    font-family:'Allura';
+    font-family:'Molle';
 }
 p {
     font-size: 1.5em;
