@@ -1,6 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Molle:400i');</style>
-
 body {
     margin: 60px auto;
     width: 70%;
@@ -23,10 +20,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    color: Aquamarine;
-    background-color:DarkTurquoise;
     font-size: 3em;
-    font-family:'Molle';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
@@ -46,3 +41,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+Don't forget to commit the n
