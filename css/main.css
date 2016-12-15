@@ -17,20 +17,32 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
-    
+ 
 }
 h1 {
     font-size: 40px;
     position: right;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p1 {
     position: right;
     font-size: 40px;
     line-height: 1.4em;
     color: DarkRed;
 }
+h2 {
+    font-size: 40px;
+    position: center:;
+    font-family: "Helvetica", "Arial", "Sans-Serif";
+}
+p1 {
+    position: right;
+    font-size: 40px;
+    color: DarkRed;
+    line-height: 1.4em;
+    background-image: url("https://definitelynotrori.files.wordpress.com/2015/07/lol_chibi_jinx_by_xyum_yumx-d90z5k1.png");
+}
+     
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
