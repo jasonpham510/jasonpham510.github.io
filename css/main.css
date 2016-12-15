@@ -25,7 +25,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p1 {
-    position: right;
+    position: center center;
     font-size: 40px;
     line-height: 1.4em;
     color: DarkRed;
@@ -40,7 +40,7 @@ p2 {
     font-size: 40px;
     color: DarkRed;
     line-height: 1.4em;
-    background-image: url("https://definitelynotrori.files.wordpress.com/2015/07/lol_chibi_jinx_by_xyum_yumx-d90z5k1.png");
+    background: url("https://definitelynotrori.files.wordpress.com/2015/07/lol_chibi_jinx_by_xyum_yumx-d90z5k1.png");
 }
      
 footer {
