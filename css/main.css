@@ -28,10 +28,9 @@ h1 {
 }
 p {
     position: right;
-    color: DarkRed;
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: DarkRed;
 }
 footer {
     border-top: 1px solid #d5d5d5;
