@@ -1,5 +1,4 @@
 body {
-    background-position: center;
     background-image: url("http://cdn.ebaumsworld.com/mediaFiles/picture/1548104/84381720.jpg");
     margin: 60px auto;
     width: 70%;
@@ -28,7 +27,7 @@ h1 {
 }
 p {
     position: right;
-    font-size: 1.5em;
+    font-size: 40px;
     line-height: 1.4em;
     color: DarkRed;
 }
