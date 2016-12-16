@@ -28,7 +28,7 @@ h1 {
 p1 {
     
 }
-h2 {
+h2, h3, ul {
     color: Black;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     font-size: 40px;
