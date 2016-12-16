@@ -25,10 +25,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p1 {
-    position: center center;
-    font-size: 40px;
-    line-height: 1.4em;
-    color: DarkRed;
+    
 }
 h2 {
     color: Black;
@@ -37,7 +34,7 @@ h2 {
     position: center:;
     font-family: "Helvetica", "Arial", "Sans-Serif";
 }
-p2 {
+p {
     font-weight: bold;
     position: right;
     font-size: 15px;
