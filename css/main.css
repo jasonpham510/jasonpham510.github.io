@@ -20,6 +20,7 @@ a {
  
 }
 h1 {
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     font-size: 40px;
     position: right;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
