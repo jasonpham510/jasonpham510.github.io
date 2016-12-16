@@ -39,7 +39,9 @@ p2 {
     position: right;
     font-size: 15px;
     color: Black;
+     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     line-height: 1.4em;
+    
     background: url("https://definitelynotrori.files.wordpress.com/2015/07/lol_chibi_jinx_by_xyum_yumx-d90z5k1.png");
 }
      
