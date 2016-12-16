@@ -1,5 +1,7 @@
 body {
     background-image: url("http://cdn.ebaumsworld.com/mediaFiles/picture/1548104/84381720.jpg");
+    background-attachment: fixed;
+    background-size: cover;
     margin: 60px auto;
     width: 70%;
 }
